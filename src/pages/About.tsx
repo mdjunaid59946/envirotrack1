@@ -4,17 +4,17 @@ import { Users, Target, Globe, Shield } from 'lucide-react';
 export const About: React.FC = () => {
   const team = [
     {
-      name: 'Dr. Sarah Chen',
+      name: 'Monish.R',
       role: 'Environmental Scientist',
       image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=250&h=250&auto=format&fit=crop',
     },
     {
-      name: 'Michael Rodriguez',
+      name: 'Shaswat Mishra',
       role: 'Data Analyst',
       image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=250&h=250&auto=format&fit=crop',
     },
     {
-      name: 'Emma Thompson',
+      name: 'Junaid',
       role: 'Sustainability Expert',
       image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=250&h=250&auto=format&fit=crop',
     },
